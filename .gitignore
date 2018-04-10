@@ -1,0 +1,14 @@
+generate.py
+code/
+
+!/init/
+/init/**
+!/init/00[0-4]*
+
+!/maze/
+/maze/**
+!/maze/00[0-4]*
+
+!/ans/
+/ans/**
+!/ans/00[0-4]*

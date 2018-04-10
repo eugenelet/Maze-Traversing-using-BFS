@@ -1,0 +1,3 @@
+opencv_python==3.4.0.12
+pygame==1.9.3
+numpy==1.14.0
